@@ -1,0 +1,3 @@
+[workspace]
+members = [ "cat_rs","echo_rs"]
+resolver = "2"
