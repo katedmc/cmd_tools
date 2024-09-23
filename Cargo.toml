@@ -1,3 +1,3 @@
 [workspace]
-members = [ "cat_rs","echo_rs"]
+members = [ "cat_rs","echo_rs", "ls_rs"]
 resolver = "2"
